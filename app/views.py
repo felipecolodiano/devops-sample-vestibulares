@@ -59,5 +59,4 @@ def cadastro_cursos(request):
             'cursos': ['ADS' , 'SI', 'CC'],
             'year':datetime.now().year,
         })
-
     )
